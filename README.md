@@ -1,13 +1,10 @@
-# 💫 Hi 👋, I'm Akshay Patil
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=260&section=header&text=Hi%20👋,%20I'm%20Akshay%20Patil&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20Software%20Engineer%20from%20India&descAlignY=60&descSize=14"/>
+</p>
 
-### 💻 A passionate Software Engineer from India
-
-
-📧 **Email Me:** ✉️ patilakshay8649@gmail.com  
-
-
----
-
+<p align="right" style="margin-top:-25px;">
+  📧  Contact Me :- patilakshay8649@gmail.com
+</p>
 ## 🚀 About Me
 
 - 🔭 **Currently Working On:** Votizy - Online Voting System Project
