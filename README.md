@@ -46,12 +46,6 @@ To become a **Professional Software Engineer** and build **scalable Java applica
 </div>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshayswm98&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akshayswm98&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayswm98&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
