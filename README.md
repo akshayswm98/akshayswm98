@@ -42,12 +42,7 @@
 
 ---
 
-## 🎯 Career Goal
 
-To become a **Professional Software Engineer** and build **scalable Java applications** that solve real-world problems. 🚀
-
-
----
 
 
 
