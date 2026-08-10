@@ -51,12 +51,9 @@ To become a **Professional Software Engineer** and build **scalable Java applica
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akshayswm98&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaypatil&show_icons=true&theme=default)
 
-![Streak](https://streak-stats.demolab.com/?user=akshayswm98&theme=radical)
-
-![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshayswm98&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatil&layout=compact&theme=default)
 ---
 
 <!-- Snake Game Repo View -->
