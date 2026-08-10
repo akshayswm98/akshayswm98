@@ -44,19 +44,27 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&custom_title=YOUR_NAME's%20GitHub%20Stats"
-    height="180"
-  />
+<div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"
-    height="180"
-  />
-</p>
+<table>
+<tr>
+<td align="center">
 
--------------
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=6" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- Snake Game Repo View -->
 
