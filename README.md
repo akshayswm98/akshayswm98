@@ -42,29 +42,7 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=6" />
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <!-- Snake Game Repo View -->
 
